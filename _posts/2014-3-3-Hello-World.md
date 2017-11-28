@@ -8,7 +8,7 @@ When i started thinking about making a web presence for myself, it was back in 2
 I remeber the first book I read about HTML was in a .chm format. It was a horrible format as the ebook readers for such format were really ugly back then. But you know, I’ve read the whole book anyway. And guess what; I fell in love with web development. It’s been 8 years now and I’ve never enjoyed anything more than making website .. AKA writing HTML and CSS.
 
 HTML is easy
-
+<code>
 <!doctype html>
 <html>
 <head>
@@ -32,7 +32,7 @@ HTML is easy
 <footer>I'm the footer zone</footer>
 </body>
 </html>
-
+</code>
 Guess what, The few lines of code that you saw up there is almost all you need to know about HTML in order to write web pages. Yes, that’s it. But there’s a catch, I will not be leaving you at that basic level. After all, What Intend to teach you eventually is advanced level HTML, css and Javascript. Stay with me, and I’ll make a stunning web developer out of you. Bookmark the blog now; you will be visiting it more often throught your journey of becoming a neat developer.
 
 You probably don’t know this, or maybe you do, but the thing everyone that have been involved in some sort of coding knows, is that HTML could be the easiest language on earth. It’s a markup language used to structure content. You can be a guru within a day or a few days depending on your enthusiasm to learn and the free time you have.
