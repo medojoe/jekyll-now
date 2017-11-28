@@ -26,7 +26,7 @@ HTML is easy
 &lt;main&gt;I'm the main content zone
 &lt;div&gt;I'm a block of content&lt;/div&gt;
 &lt;p&gt;I'm a paragraph&lt;/p&gt;
-&lt;a href="http://cesr.net"&gt;I'm a link to a web development website&lt;/a&gt;
+&lt;a href="https://cesr.net"&gt;URL of a web development site&lt;/a&gt;
 &lt;img src="http://lorempixel.com/400/200/"&gt;
 &lt;/main&gt;
 &lt;footer&gt;I'm the footer zone&lt;/footer&gt;
