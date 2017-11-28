@@ -12,6 +12,7 @@ layout: default
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
-
+  This post belongs to the {% include category.html %} category.
+  {% include tag.html %}
   {% include disqus.html %}
 </article>
