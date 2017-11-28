@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Learn HTML in one day – part one
+category: HTML
+tags: [learn, html]
 ---
 
 When i started thinking about making a web presence for myself, it was back in 2008. I was really into the world of internet that i used to spend 18 hours before my computer screen. Every moment was enjoyable. I was always eager to learn coding stuff. I’ve coded mIRC scripts, it was easy it took me 2 weeks and then I rocked it! So I thought, why not go to the next level; websites! And then everything changed.
