@@ -1,3 +1,9 @@
+---
+layout: post
+title: Why consistency equals success
+---
+
+
 *If you have consistency, you can accomplish anything in the world*
 
 Explanation: anything you keep at, will get accomplished over time because it has no other option .. it has no where to run from you ..This is how your brain helps you accomplish stuff .. this is how you achieve long term goals .. this is how your brain memorizes, learns and masters stuff ….. all done over time .. not immediately or magically .. but over time .. seems boring but critical .. seems dull but it really isn’t .. it is the journey that you should actually love going through. Without the journey .. no kind of  success could bring happiness .. quick gains are short lived .. and they lose their glow inside your mind even quicker .. no short term accomplishment could manage to give you satisfaction ..so many people focus on the results and forget that the real joy is in the journey .. and the ultimate satisfaction and sense of achievement, is in “finally” reaching the happy ending after that long journey .. the longer the journey the bigger the reward .. i once watched a bodybuilding competition only to get shocked at the reaction of the winner .. the guy literally cried like a baby when they asked him “how do you feel after finally winning?”
