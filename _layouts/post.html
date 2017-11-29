@@ -13,7 +13,10 @@ layout: default
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
  
+  {% comment %}
   {% include Category.html %}
   {% include tag.html %}
+  {% endcomment %}
+  
   {% include disqus.html %}
 </article>
