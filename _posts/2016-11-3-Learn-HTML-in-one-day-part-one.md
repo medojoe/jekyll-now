@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learn HTML in one day – part one
-category: HTML
+categories: HTML
 tags: [learn, html]
 ---
 
