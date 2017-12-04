@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why consistency equals success
-categories: Self Development
+categories: Self-Development
 tags: [consistency, success]
 ---
 
