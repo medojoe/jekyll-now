@@ -14,6 +14,8 @@ avatar: http://tutorials.cesr.net/assets/images/cesr-logo.png
 # Flags below are optional
 #
 
+markdown: kramdown
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
