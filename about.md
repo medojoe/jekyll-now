@@ -12,7 +12,7 @@ This tutorial zone has one and only one goal, proving that coding and web develo
 
 ### What we teach
 
-We teach PHP, Javascript, and most of their frameworks. If you think we should consider more languages or frameworks, please contact us at the E-Mail below or through the [contact form](https://cesr.net/webtools/contact/)
+We teach PHP, Javascript, and most of their frameworks. If you think we should consider more languages or frameworks, please contact us at the E-Mail below or through the [contact form](https://cesr.net/contact.html#)
 
 ### Contact me
 
